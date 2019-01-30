@@ -1,8 +1,8 @@
 # Kill Em All
 
-> Kill em' all
+> Kill em' all.
 >
-> <cite>Cliff Burton</cite>
+> -- <cite>Cliff Burton</cite>
 
 A simple plugin to kill tmux sessions.
 
@@ -47,5 +47,5 @@ Reload TMUX environment with `$ tmux source-file ~/.tmux.conf`, and that's it.
 
 ### License
 
-[MIT](LICENSE.md)
+[MIT](LICENSE)
 
