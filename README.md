@@ -30,20 +30,19 @@ Hit `prefix + I` to fetch the plugin and source it. That's it!
 
 Clone the repo:
 
-    $ git clone https://github.com/jethrodaniel/kill_em_all ~/clone/path
+    `git clone https://github.com/jethrodaniel/kill_em_all ~/clone/path`
 
 Add this line to the bottom of `.tmux.conf`:
 
-    run-shell ~/clone/path/kill_em_all.tmux
+    `run-shell ~/clone/path/kill_em_all.tmux`
 
-Reload TMUX environment with `$ tmux source-file ~/.tmux.conf`, and that's it.
+Reload your TMUX environment with `tmux source-file ~/.tmux.conf`, and that's it.
 
 ### Requirements
 
 - xargs
 - grep
 - bash
-- tput
 
 ### License
 
