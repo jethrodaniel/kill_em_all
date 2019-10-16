@@ -1,5 +1,8 @@
 # Kill Em All
 
+![](https://img.shields.io/github/license/jethrodaniel/kill_em_all.svg)
+
+
 > Kill em' all.
 >
 > -- <cite>Cliff Burton</cite>
